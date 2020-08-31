@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**sidtagirisa/sidtagirisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in AXA, Singapore.
 
-Here are some ideas to get you started:
+- 🔭 I use daily: `Javascript`, `Typescript`,  `Node.js`, `React.js`, `Next.js`, `Python`.
+- 🌱 I’m currently learning `Go`
+- 👯 I’m trying to build a open source auto update resume using `React.js`, `Python` and hosting on GitHub Pages.
+- 💬 Ask me about `learning new things`, `development`
+- 📫 How to reach me: Whatsapp: `+65-91799700`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming Skills
+
+*Languages*: `JavaScript`, `Python`, `Java`, `PHP`, `Bash Scripting`
+
+*Frameworks*: `NodeJS - ExpressJS`, `ReactJS`, `Play - Java`, `Django`, `React Native`
+
+*Databases*: `MySQL`, `PostgreSQL`, `MongoDB`, `Elasticsearch`
+
+*Tools*: `Nginx`, `AWS`, `Jenkins`, `OpenShift`, `Docker`, `RabbitMQ`
