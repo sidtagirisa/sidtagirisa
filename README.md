@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in AXA, Singapore.
+#### I'm a Full-Stack Developer working in Finlync, Singapore.
 
-- 🔭 I use daily: `Javascript`, `Typescript`,  `Node.js`, `React.js`, `Next.js`, `Python`.
+- 🔭 I use daily: `Javascript`, `Node.js`, `Python`.
 - 🌱 I’m currently learning: `Go`
 - 👯 I’m currently working on:  build a open source auto update resume using `React.js`, `Python` and hosting on GitHub Pages.
 - 💬 Ask me about: `learning new things`, `development`
