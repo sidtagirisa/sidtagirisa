@@ -1,19 +1,30 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Finlync, Singapore.
+#### I'm Siddhardha Tagirisa, a Full-Stack Developer and Technical Lead based in Singapore.
 
-- 🔭 I use daily: `Javascript`, `Node.js`, `Python`.
-- 🌱 I’m currently learning: `Go`
-- 👯 I’m currently working on:  build a open source auto update resume using `React.js`, `Python` and hosting on GitHub Pages.
-- 💬 Ask me about: `learning new things`, `development`
-- 📫 How to reach me: Whatsapp - `+65-91799700`
+- 🔭 I work daily with: `Java`, `JavaScript`, `Node.js`, `Python`.
+- 🌱 I’m currently exploring: Advanced `AWS` infrastructure.
+- 💬 Ask me about: Scalable system design, microservices, performance optimization, and developer experience.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siddhardha-tagirisa/), WhatsApp: +65-91799700
 
-#### Programming Skills
+---
 
-*Languages*: `JavaScript`, `Python`, `Java`, `PHP`, `Bash Scripting`
+#### Experience Highlights
 
-*Frameworks*: `NodeJS - ExpressJS`, `ReactJS`, `Play - Java`, `Django`, `React Native`
+- **Staff Software Engineer**, Singapore Airlines: Leading a team of developers to improve user experience for KrisPass users, developing a centralized login system and secure 2FA for KrisPass.
+- **Staff Software Engineer**, Finlync: Boosted BankLync’s platform by 10x performance and expanded service reach by 60% using `Node.js`, `Vue.js`, and AWS infrastructure.
+- **Senior Software Engineer**, AXA Insurance: Optimized insurance renewals, and improved MyAXA mobile app performance by 30%.
 
-*Databases*: `MySQL`, `PostgreSQL`, `MongoDB`, `Elasticsearch`
+---
 
-*Tools*: `Nginx`, `AWS`, `Jenkins`, `OpenShift`, `Docker`, `RabbitMQ`
+#### Technical Skills
+
+- **Languages**: `Java`, `JavaScript`, `Python`, `PHP`, `Bash Scripting`
+- **Frameworks**: `Node.js`, `React.js`, `Vue.js`, `Spring Boot`, `Django`, `React Native`
+- **Databases**: `MySQL`, `PostgreSQL`, `MongoDB`, `Elasticsearch`
+- **Cloud/DevOps**: `AWS (Lambda, S3, EC2, RDS)`, `Docker`, `Jenkins`, `OpenShift`, `Nginx`
+- **Tools**: `Artillery`, `Swagger`, `RabbitMQ`, `Kafka`, `Redis`, `Cypress`
+
+---
+
+#### Let's connect!
