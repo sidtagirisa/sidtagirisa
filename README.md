@@ -11,8 +11,8 @@
 
 #### Experience Highlights
 
-- **Staff Software Engineer**, Singapore Airlines: Leading a team of developers to improve user experience for KrisPass users, developing a centralized login system and secure 2FA for KrisPass.
-- **Staff Software Engineer**, Finlync: Boosted BankLync’s platform by 10x performance and expanded service reach by 60% using `Node.js`, `Vue.js`, and AWS infrastructure.
+- **Senior Software Engineer & Technical Lead**, Singapore Airlines: Leading a team of developers to improve user experience for KrisPass users, developing a centralized login system and secure 2FA for KrisPass.
+- **Senior Software Engineer**, Finlync: Boosted BankLync’s platform by 10x performance and expanded service reach by 60% using `Node.js`, `Vue.js`, and AWS infrastructure.
 - **Senior Software Engineer**, AXA Insurance: Optimized insurance renewals, and improved MyAXA mobile app performance by 30%.
 
 ---
